@@ -38,7 +38,7 @@ Movies is a full-stack application consisting of a Spring Boot backend (Movies A
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Damples06/Movie-Rating-Site
+   git clone https://github.com/Damples06/movies-api-react-hub.git
    cd WeatherWebApp
    ```
    
