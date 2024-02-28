@@ -56,16 +56,17 @@ Movies is a full-stack application consisting of a Spring Boot backend (Movies A
 ## Usage
 
 **Movie Information**
-   
+
    To retrieve details for a specific movie, use the following endpoint:
    
    ```
       GET /api/v1/movies/{imdbId}
    ```
+      
    Example:
    
    ```bash
-      curl http://localhost:5454/api/v1/movies/tt1234567
+        curl http://localhost:5454/api/v1/movies/tt1234567
    ```
 
 **Reviews**
@@ -99,4 +100,4 @@ Movies is a full-stack application consisting of a Spring Boot backend (Movies A
 ## Contributing
 
    Contributions are welcome! Feel free to open issues and pull requests.
-   Replace `<repository_url>` with the actual URL of your Movies repository. Make sure to mention the frontend directory (assuming it's called `frontend`), and provide instructions for installing dependencies and starting the frontend. If your frontend has additional configurations, you may include those as well.
+
