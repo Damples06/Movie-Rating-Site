@@ -30,7 +30,7 @@ Movies is a full-stack application consisting of a Spring Boot backend (Movies A
 
 ### Frontend
 
--JavaScript 
+- JavaScript 
 - React
 - Axios
 
