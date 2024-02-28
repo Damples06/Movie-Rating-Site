@@ -23,13 +23,14 @@ Movies is a full-stack application consisting of a Spring Boot backend (Movies A
 
 ### Backend
 
-- Java 17
-- Spring Boot 3
+- Java
+- Spring Boot
 - MongoDB
 - Lombok
 
 ### Frontend
 
+-JavaScript 
 - React
 - Axios
 
